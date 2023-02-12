@@ -5,5 +5,6 @@ This repository is for storing the tasks for the project 2035
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">I don't like u and i wanna sleep</h3>
 
-<!---Пример кода-->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=A7FFF3&center=true&vCenter=true&height=40&lines=Computer+science+student)](https://git.io/typing-svg)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JunShang95&show_icons=true&theme=radical)
